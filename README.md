@@ -31,7 +31,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![GIF](https://imgur.com/bwX5Ljr.gif)
+![GIF](https://imgur.com/MLLcHFO.gif)
 
 GIF created with ...  ezGIF
 
